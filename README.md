@@ -18,4 +18,5 @@ csr_info is a macOS utility that displays the current System Integrity Protectio
 ## 💻 Usage
 
 ```bash
+clang main.c -o csr_info
 ./csr_info
